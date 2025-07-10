@@ -4,8 +4,7 @@ p{
   font-size: 100px;
   font-family: Verdana, Geneva, Tahoma, sans-serif ;
   animation-iteration-count: infinite;
-}
-p:hover{
+h1{
   animation-name: end;
 }
 @keyframes start {
