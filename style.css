@@ -4,6 +4,7 @@ p{
   font-size: 100px;
   font-family: Verdana, Geneva, Tahoma, sans-serif ;
   animation-iteration-count: infinite;
+}
 h1{
   animation-name: end;
   animation-duration: 1s;
