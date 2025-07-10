@@ -6,6 +6,10 @@ p{
   animation-iteration-count: infinite;
 h1{
   animation-name: end;
+  animation-duration: 1s;
+  font-size: 100px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif ;
+  animation-iteration-count: infinite;
 }
 @keyframes start {
   0%{
